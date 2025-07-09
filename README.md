@@ -109,7 +109,7 @@ You can reach me in platform below :
 
 
 ## 📈 Github Stats
-![Ndraaa15's Stats](https://github-readme-stats.vercel.app/api?username=Ndraaa15&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Ndraaa15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ndraaa15&theme=tokyonight&hide_border=true)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ndraaa15&theme=tokyonight)
+![Ndraaa15's Stats](https://github-readme-stats.vercel.app/api?username=indrabrata&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Ndraaa15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=indrabrata&theme=tokyonight&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrabrata&theme=tokyonight)
 
