@@ -8,7 +8,6 @@ Hi, I'm Indra
 🏫 &nbsp;Passionate student at Brawijaya University majoring Informatics Engineering </br>
 👨‍💼 &nbsp;Part of [Basic Computing Community](https://www.instagram.com/bccfilkom/) and [Information Centric Network Laboratorium](https://www.instagram.com/labicnfilkom/) </br>
 🤖 &nbsp;Exploring about Software Engineering, Machine Lerning, Cloud & Distributed System </br>
-⛩️ &nbsp;Tech Enthusiast </br>
 
 ## 🖥️ Tech Stack
 
@@ -104,6 +103,8 @@ Hi, I'm Indra
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes Badge">
     <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Websocket Badge">
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge">
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="K6 Badge">
+    <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
   </td>
 </tr>
 </table>
