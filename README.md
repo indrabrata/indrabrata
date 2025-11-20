@@ -1,18 +1,19 @@
 <!-- ## Greetings -->
-
+<!--
 <h3 align="center">
 Hi, I'm Indra
 <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="15px"/>
-</h3>
+</h3> -->
 
-- Undergraduate computer science student </br>
-- Part of [Basic Computing Community](https://www.instagram.com/bccfilkom/) and [Information Centric Network Laboratorium](https://www.instagram.com/labicnfilkom/) </br>
-- Exploring about Software Engineering and Distributed System </br>
-- I like writing what i want </br>
+Undergraduate computer science student who loves turn ideas into code. For now, i'm part of [Basic Computing Community](https://www.instagram.com/bccfilkom/) and [Information Centric Network Laboratorium](https://www.instagram.com/labicnfilkom/). Exploring about Software Engineering and Distributed System
+
+> We reject: kings, presidents and voting.
+> We believe in: rough consensus and running code.
+> [_RFC 7282_](https://datatracker.ietf.org/doc/html/rfc7282)
 
 <!-- ## 🖥️ Tech Stack -->
 
-<!-- <table>
+<!-- <table>w
 <tr>
   <td>
     <b>Language</b>
