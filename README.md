@@ -1,4 +1,4 @@
-## Greetings
+<!-- ## Greetings -->
 
 <h3 align="center">
 Hi, I'm Indra
@@ -122,7 +122,7 @@ Hi, I'm Indra
 <!-- <a href="https://www.hackerrank.com/muffinCupcake">![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)</a>
 <a href="https://leetcode.com/u/cupcakezzz">![Leetcode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)</a> -->
 
-## Stats
+<!-- ## Stats -->
 
 <div align="center">
 
