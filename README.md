@@ -127,7 +127,7 @@ Undergraduate computer science student who loves turn ideas into code. For now, 
 
 <div align="center" style="display: flex; justify-content: center; gap: 5px;">
   <img src="https://github-readme-stats.vercel.app/api?username=indrabrata&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="indrabrata's Stats" style="flex: 1; max-width: 50%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrabrata&theme=gruvbox&hide_border=true" alt="indrabrata's Streak" style="flex: 1; max-width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrabrata&hide=Jupyter%20Notebook&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)" alt="indrabrata's Streak" style="flex: 1; max-width: 50%;" />
 </div>
 
 <!-- ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrabrata&theme=gruvbox) -->
