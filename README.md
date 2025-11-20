@@ -1,17 +1,18 @@
-## 🤓 About Me
+## Greetings
 
 <h3 align="center">
 Hi, I'm Indra
 <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="15px"/>
 </h3>
 
-🏫 &nbsp;Passionate student at Brawijaya University majoring Informatics Engineering </br>
-👨‍💼 &nbsp;Part of [Basic Computing Community](https://www.instagram.com/bccfilkom/) and [Information Centric Network Laboratorium](https://www.instagram.com/labicnfilkom/) </br>
-🤖 &nbsp;Exploring about Software Engineering, Machine Lerning, Cloud & Distributed System </br>
+- Undergraduate Computer Science Student </br>
+- Part of [Basic Computing Community](https://www.instagram.com/bccfilkom/) and [Information Centric Network Laboratorium](https://www.instagram.com/labicnfilkom/) </br>
+- Exploring about Software Engineering and Distributed System </br>
+- I like writing what i want </br>
 
-## 🖥️ Tech Stack
+<!-- ## 🖥️ Tech Stack -->
 
-<table>
+<!-- <table>
 <tr>
   <td>
     <b>Language</b>
@@ -40,7 +41,7 @@ Hi, I'm Indra
     <img src="https://img.shields.io/badge/ECHO-008ECF?logo=echo&logoColor=FFFFFF&style=for-the-badge" alt="Echo Badge">
   </td>
 </tr>
-<!-- <tr>
+<tr>
   <td>
     <b>DevOps</b>
   </td>
@@ -52,7 +53,7 @@ Hi, I'm Indra
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Heroku Badge">
 
   </td>
-</tr> -->
+</tr>
 <tr>
   <td>
     <b>Database</b>
@@ -66,10 +67,10 @@ Hi, I'm Indra
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB Badge">
     <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white&style=for-the-badge" alt="Redis Badge">
     <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge" alt="Oracle Badge">
-    
+
   </td>
 </tr>
-<!-- <tr>
+ <tr>
   <td>
     <b>Linux</b>
   </td>
@@ -78,8 +79,8 @@ Hi, I'm Indra
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Badge">
     <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" alt="Alpine Badge">
   </td>
-</tr> -->
-<!-- <tr>
+</tr>
+<tr>
   <td>
     <b>Tools</b>
   </td>
@@ -89,7 +90,7 @@ Hi, I'm Indra
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Alpine Badge">
     <img src="https://img.shields.io/badge/hoppscotch-002721?style=for-the-badge&logo=hoppscotch&logoColor=00d79f" alt="Alpine Badge">
   </td>
-</tr> -->
+</tr>
 <tr>
   <td>
     <b>Others</b>
@@ -106,20 +107,28 @@ Hi, I'm Indra
     <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="K6 Badge"/>
   </td>
 </tr>
-</table>
+</table> -->
 
-## 🌐 Social
+<!-- ## 🌐 Social -->
 
-You can reach me in platform below :
+<!-- You can reach me in platform below : -->
 
-<a href="https://www.instagram.com/lndra.a/">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)</a>
-<a href="https://www.linkedin.com/in/indrabrata/">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)</a>
-<a href="mailto:indrabrata599@gmail.com">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.hackerrank.com/muffinCupcake">![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)</a>
-<a href="https://leetcode.com/u/cupcakezzz">![Leetcode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)</a>
+<!-- <a href="https://www.instagram.com/lndra.a/">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)</a> -->
 
-## 📈 Stats
+<!-- <a href="https://www.linkedin.com/in/indrabrata/">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)</a> -->
 
-![indrabrata's Stats](https://github-readme-stats.vercel.app/api?username=indrabrata&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![indrabrata's Streak](https://github-readme-streak-stats.herokuapp.com/?user=indrabrata&theme=tokyonight&hide_border=true)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrabrata&theme=tokyonight)
+<!-- <a href="mailto:indrabrata599@gmail.com">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> -->
+
+<!-- <a href="https://www.hackerrank.com/muffinCupcake">![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)</a>
+<a href="https://leetcode.com/u/cupcakezzz">![Leetcode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)</a> -->
+
+## Stats
+
+<div align="center">
+
+![indrabrata's Stats](https://github-readme-stats.vercel.app/api?username=indrabrata&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+
+</div>
+
+<!-- ![indrabrata's Streak](https://github-readme-streak-stats.herokuapp.com/?user=indrabrata&theme=gruvbox&hide_border=true) -->
+<!-- ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrabrata&theme=gruvbox) -->
