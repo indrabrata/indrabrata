@@ -5,7 +5,7 @@ Hi, I'm Indra
 <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="15px"/>
 </h3>
 
-- Undergraduate Computer Science Student </br>
+- Undergraduate computer science student </br>
 - Part of [Basic Computing Community](https://www.instagram.com/bccfilkom/) and [Information Centric Network Laboratorium](https://www.instagram.com/labicnfilkom/) </br>
 - Exploring about Software Engineering and Distributed System </br>
 - I like writing what i want </br>
