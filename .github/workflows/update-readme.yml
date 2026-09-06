@@ -1,0 +1,29 @@
+name: Update README
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs nightly at 00:00 UTC.
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme-wakatime:
+    name: Update README Wakatime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: all_time
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+
+  update-readme-top-languages:
+    name: Update README Top Languages
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: indrabrata/github-top-language-readme@master
+        with:
+          gh_token: ${{ secrets.TOP_LANGUAGES_TOKEN }}
+          excluded_languages: Jupyter Notebook,CSS,Blade,HTML
+          max_language: "5"

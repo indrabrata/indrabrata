@@ -9,16 +9,8 @@ Undergraduate computer science student who loves turn ideas into code. For now, 
 > We believe in: rough consensus and running code.
 > [_RFC 7282_](https://datatracker.ietf.org/doc/html/rfc7282)
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=indrabrata&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrabrata&hide=Jupyter%20Notebook,CSS,Blade,HTML&theme=gruvbox&hide_border=true&layout=compact&langs_count=10" />
-    </td>
-  </tr>
-</table>
+<!--START_SECTION:github_top_language-->
+<!--END_SECTION:github_top_language-->
 
 <!--START_SECTION:waka-->
 
