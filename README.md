@@ -9,6 +9,8 @@ Undergraduate computer science student who loves turn ideas into code. For now, 
 > We believe in: rough consensus and running code.
 > [_RFC 7282_](https://datatracker.ietf.org/doc/html/rfc7282)
 
+## Top Languages
+
 <!--START_SECTION:github_top_language-->
 ```txt
 Go           ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.38 %
@@ -18,6 +20,8 @@ JavaScript   ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Python       ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀    9.79 %
 ```
 <!--END_SECTION:github_top_language-->
+
+## Coding Activity
 
 <!--START_SECTION:waka-->
 
